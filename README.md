@@ -1,2 +1,2 @@
-# write_to_excel
+# Tkinter and Excel
 Writing data into Excel from Tkinter
